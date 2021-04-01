@@ -1,3 +1,3 @@
 # KC-WindowsTracker
-A project to track changes that occur in Windows files.\n
+A project to track changes that occur in Windows files.</br>
 kasra
