@@ -10,6 +10,7 @@ Such as : Modified files , deleted and created and ...
   <li>WTWController.py</li>
   <li>LoggingCore.py</li>
   <li>ConfigJson.py</li>
+  <li>AboutUs.py</li>
 </ul>
 <h2>Main.py</h2>
 Starting the program.
@@ -26,5 +27,7 @@ Controll the Tracking window behavior (ex. Click event, logging ,etc ...)</br>
 This files is the main core of the program. In this script,</br> the main software programs are written. Like Logging engine, pattern checker, etc ...
 <h2>ConfigJson.py</h2>
 This script used for creating config.json file and saving settings in that.
+<h2>AboutUs.py</h2>
+Open the about us window with UiFiles/AboutUs.ui file
 <h2>Libraries</h2>
 PyQt5 - watchdog
