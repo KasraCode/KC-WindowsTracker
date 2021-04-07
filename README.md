@@ -26,3 +26,5 @@ Controll the Tracking window behavior (ex. Click event, logging ,etc ...)</br>
 This files is the main core of the program. In this script,</br> the main software programs are written. Like Logging engine, pattern checker, etc ...
 <h2>ConfigJson.py</h2>
 This script used for creating config.json file and saving settings in that.
+<h2>Libraries</h2>
+PyQt5 - watchdog
